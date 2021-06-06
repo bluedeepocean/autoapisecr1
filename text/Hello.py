@@ -5,7 +5,7 @@ s = None
 r = None
 
 
-print('©Darkmoon,2020')
+print('©Darkmoon,2021')
 name = int(input('输入1则计算圆面积，输入2则计算正方形面积：'))
 if name == 1:
   r = float(input('圆的半径：'))
